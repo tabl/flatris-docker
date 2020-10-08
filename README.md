@@ -16,10 +16,8 @@ Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 ## Setup and running
 
 ```
-yarn install
-yarn test
-yarn build
-yarn start
+sudo apt-get install docker docker-compose
+docker-compose up
 ```
 
 Go to http://localhost:3000
